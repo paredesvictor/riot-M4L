@@ -3,4 +3,4 @@
 
 Requirements
 ------
-Mubu package (up to date pls !!)
+Max "mubu" package (up to date pls !!)
