@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 2,
-			"revision" : 2,
+			"revision" : 1,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -292,7 +292,7 @@
 							"parameter_initial" : [ 1.0 ],
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "threshold",
-							"parameter_mmax" : 7.0,
+							"parameter_mmax" : 30.0,
 							"parameter_mmin" : 0.2,
 							"parameter_shortname" : "thresh",
 							"parameter_type" : 0,
@@ -451,8 +451,8 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "kick.maxpat",
-				"bootpath" : "~/Documents/Max 8/Library/riot-bitalino",
-				"patcherrelativepath" : "../../../riot-bitalino",
+				"bootpath" : "~/Documents/Max 8/Library/M4L/riot-M4L/Deps/Max",
+				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
